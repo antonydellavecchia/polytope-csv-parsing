@@ -6,4 +6,4 @@
 
 ## Loading into Oscar 
 
-eading_data.jl provides an example
+reading_data.jl provides an example
